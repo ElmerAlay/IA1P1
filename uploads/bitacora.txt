@@ -1,0 +1,14 @@
+Fecha y Hora: 2020-12-13 13:52:07.877903
+CSV utilizado: /home/elmer/Documents/Universidad/IA/P1_201212945/uploads/Practica1_Entrada2.csv
+Criterio utilizado: Un 70 por ciento de la población tiene 0.5 o menos de valor fitness
+Selección de padres utilizado: Mejores Padres
+Número de generaciones: 3212
+Mejor solución: [0.1504,0.1511,0.2808,0.4301]
+
+Fecha y Hora: 2020-12-13 13:55:41.137695
+CSV utilizado: /home/elmer/Documents/Universidad/IA/P1_201212945/uploads/Practica1_Entrada2.csv
+Criterio utilizado: 5000 generaciones máximo
+Selección de padres utilizado: Ruleta
+Número de generaciones: 5000
+Mejor solución: [0.2202,0.2205,0.171,0.4954]
+
